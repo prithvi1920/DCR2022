@@ -3,7 +3,7 @@ package package1;
 public class Assignment1 
 
 {
-int age;
+int age;//
 int rollno;
 
 public void display1()
