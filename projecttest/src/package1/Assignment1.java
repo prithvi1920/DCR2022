@@ -4,7 +4,7 @@ public class Assignment1
 
 {
 int age;//
-int rollno;//
+int rollno;///
 
 public void display1()
 
